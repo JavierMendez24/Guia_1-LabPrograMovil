@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guia_1</string>
+    <string name="mi_primera_gu_a">Mi primera Guía</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="formulario_login">Formulario Login</string>
+    <string name="mis_datos">Mis datos</string>
+    <string name="datos_del_alumno">Datos del alumno:</string>
+    <string name="luis_javier_mendez_padilla">Luis Javier Mendez Padilla</string>
+    <string name="mp17_i04_001">MP17-I04-001</string>
+    <string name="correlativo_de_asistencia">Correlativo de asistencia</string>
+</resources>
